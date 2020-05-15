@@ -10,7 +10,7 @@ class App extends Component {
       {
         id: 0,
         name: "ruslan",
-        phone: "123"
+        phone: "live:.cid.1f0482219d42ee4d"
       },
       {
         id: 1,
